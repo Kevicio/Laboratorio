@@ -15629,6 +15629,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Soporte\\Documents\\USMP\\programacion I\\Laboratorio\\Views\\Calculadora\\Index.cshtml",
+      "TargetPath": "Views\\Calculadora\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Soporte\\Documents\\USMP\\programacion I\\Laboratorio\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
