@@ -17,10 +17,10 @@ namespace demomvc.Controllers{
         double operacion2=0.0;
         double igv=1.18;
         
-        if(objproducto.cantidad=='0'){
+        if(objproducto.cantidad== 0){
             ViewData["Message"] = "No se puede ingresar 0 como cantidad";
         }
-        else if(objproducto.precio=='0'){
+        else if(objproducto.precio== 0){
             ViewData["Message"] = "No existe ningun producto con precio 0";
         }
         else{ 
