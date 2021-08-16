@@ -80,3 +80,4 @@ C:\Users\Soporte\Documents\USMP\programacion I\Laboratorio\obj\Debug\net5.0\demo
 C:\Users\Soporte\Documents\USMP\programacion I\Laboratorio\obj\Debug\net5.0\demomvc.genruntimeconfig.cache
 C:\Users\Soporte\Documents\USMP\programacion I\Laboratorio\obj\Debug\net5.0\demomvc.csproj.CopyComplete
 C:\Users\Soporte\Documents\USMP\programacion I\Laboratorio\obj\Debug\net5.0\Razor\Views\Calculadora\Index.cshtml.g.cs
+C:\Users\Soporte\Documents\USMP\programacion I\Laboratorio\obj\Debug\net5.0\Razor\Views\Producto\index.cshtml.g.cs

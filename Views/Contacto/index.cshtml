@@ -11,7 +11,7 @@
     <h1 class="display-4">Formulario de Contacto</h1>
     
   
-    <form asp-controller="Contacto" asp-action="Index">
+    <form asp-controller="Contacto" asp-action="Create">
     <label asp-for="Nombre" class="control-label"></label>
     <input asp-for="Nombre" class="form-control" placeholder="Escribe tu nombre"/>
 
@@ -30,6 +30,7 @@
 
 
     </form>
+    <h1>@ViewData["Message"]</h1>
 </div>
 
 
