@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Soporte\\Documents\\USMP\\programacion I\\demomvc\\demomvc.csproj",
+  "FilePath": "c:\\Users\\Soporte\\Documents\\USMP\\programacion I\\Laboratorio\\demomvc.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,43 +15619,43 @@
   "RootNamespace": "demomvc",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Soporte\\Documents\\USMP\\programacion I\\demomvc\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Soporte\\Documents\\USMP\\programacion I\\demomvc\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Soporte\\Documents\\USMP\\programacion I\\demomvc\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Soporte\\Documents\\USMP\\programacion I\\demomvc\\Views\\Home\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\Soporte\\Documents\\USMP\\programacion I\\Laboratorio\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Soporte\\Documents\\USMP\\programacion I\\demomvc\\Views\\Contacto\\index.cshtml",
-      "TargetPath": "Views\\Contacto\\index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Soporte\\Documents\\USMP\\programacion I\\demomvc\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Soporte\\Documents\\USMP\\programacion I\\demomvc\\Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\Soporte\\Documents\\USMP\\programacion I\\Laboratorio\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Soporte\\Documents\\USMP\\programacion I\\demomvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\Soporte\\Documents\\USMP\\programacion I\\Laboratorio\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Soporte\\Documents\\USMP\\programacion I\\Laboratorio\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Soporte\\Documents\\USMP\\programacion I\\Laboratorio\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Soporte\\Documents\\USMP\\programacion I\\Laboratorio\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Soporte\\Documents\\USMP\\programacion I\\Laboratorio\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Soporte\\Documents\\USMP\\programacion I\\Laboratorio\\Views\\Contacto\\index.cshtml",
+      "TargetPath": "Views\\Contacto\\index.cshtml",
       "FileKind": "mvc"
     }
   ],

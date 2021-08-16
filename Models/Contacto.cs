@@ -14,7 +14,7 @@ namespace demomvc.Models
            get;
            set;
        }
-       public string Comentarios {
+       public string Comentario {
            get;
            set;
        }

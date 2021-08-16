@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Soporte\\Documents\\USMP\\programacion I\\demomvc\\demomvc.csproj",
+      "projectUniqueName": "C:\\Users\\Soporte\\Documents\\USMP\\programacion I\\Laboratorio\\demomvc.csproj",
       "projectName": "demomvc",
-      "projectPath": "C:\\Users\\Soporte\\Documents\\USMP\\programacion I\\demomvc\\demomvc.csproj",
+      "projectPath": "C:\\Users\\Soporte\\Documents\\USMP\\programacion I\\Laboratorio\\demomvc.csproj",
       "packagesPath": "C:\\Users\\Soporte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Soporte\\Documents\\USMP\\programacion I\\demomvc\\obj\\",
+      "outputPath": "C:\\Users\\Soporte\\Documents\\USMP\\programacion I\\Laboratorio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Soporte\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }
