@@ -24,15 +24,15 @@ namespace demomvc.Controllers{
             ViewData["Message"] = "No existe ningun producto con precio 0";
         }
         else{ 
-        ViewData["Message"] = "Cantidad Total "+objproducto.cantidad;
-        ViewData["Message"] = "Precio "+objproducto.precio;
-        ViewData["Message"] = "IGV = 18% ";
+        ViewData["Cantidad"] = "Cantidad Total: "+objproducto.cantidad+" unidades";
+        ViewData["Precio"] = "Precio: "+objproducto.precio;
+        ViewData["IGV"] = "IGV = 18% ";
 
         operacion1=objproducto.cantidad*objproducto.precio;
-        ViewData["Message"] ="El subtotal de la venta es: "+operacion1;
+        ViewData["subtotal"] ="El subtotal de la venta es: S/."+operacion1;
 
         operacion2=operacion1*igv;
-        ViewData["Message"] ="El total de la venta es: "+operacion2;
+        ViewData["Message"] ="El total de la venta es: S/."+operacion2;
 
         }
 
