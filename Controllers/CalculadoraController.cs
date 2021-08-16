@@ -5,14 +5,14 @@ using demomvc.Models;
 namespace demomvc.Controllers{
 
 
-   public class CalculadoraController:Controller
+   public class CalculadoraController: Controller
     {
 
     public IActionResult Index()
     {
         return View();
     }
-
+    
     [HttpPost]
     public IActionResult Calcular(Calculadora objcalculadora)
     {
