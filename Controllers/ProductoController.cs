@@ -17,7 +17,7 @@ namespace demomvc.Controllers{
         double operacion2=0.0;
         double operacion3=0.0;
         double igv=0.18;
-        double red1,red2;
+        
       
         
         
