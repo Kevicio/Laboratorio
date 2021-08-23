@@ -1,23 +1,58 @@
+using System;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+
 namespace demomvc.Models
 {
+    [Table("t_contacto")]
     public class Contacto{
 
-       public string Correo {
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+
+        [Column("id")]
+        public int Id {
+            get;
+            set;
+        }
+
+        [Column("email")]
+       public string Email {
            get;
            set;
        }
-       public string Telefono {
+
+       [Column("phone")]
+       public string Phone {
            get;
            set;
        }
-       public string Nombre {
+
+       [Column("name")]
+       public string Name {
            get;
            set;
        }
-       public string Comentario {
+
+       [Column("comment")]
+       public string Comment {
            get;
            set;
        }
+
+       [Column("BirthDay")] 
+       public DateTime BirthDate {
+           get;
+           set;
+       }
+
+       [Column("gender")]
+       public string Gender {
+           get;
+           set;
+       }
+
+
 
 
     }

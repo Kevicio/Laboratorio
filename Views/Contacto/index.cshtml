@@ -12,17 +12,24 @@
     
   
     <form asp-controller="Contacto" asp-action="Create">
-    <label asp-for="Nombre" class="control-label"></label>
-    <input asp-for="Nombre" class="form-control" placeholder="Escribe tu nombre"/>
+    <label asp-for="Name" class="control-label"></label>
+    <input asp-for="Name" class="form-control" type="text" placeholder="Escribe tu nombre"/>
 
-    <label asp-for="Correo" class="control-label"></label>
-    <input asp-for="Correo" class="form-control" />
+    <label asp-for="Email" class="control-label"></label>
+    <input asp-for="Email" class="form-control" />
 
-    <label asp-for="Telefono" class="control-label"></label>
-    <input asp-for="Telefono" class="form-control" />
+    <label asp-for="Phone" class="control-label"></label>
+    <input asp-for="Phone" class="form-control" />
 
-    <label asp-for="Comentario" class="control-label"></label>
-    <input asp-for="Comentario" class="form-control"/>
+    <label asp-for="Comment" class="control-label"></label>
+    <input asp-for="Comment" class="form-control" />
+
+    <label asp-for="BirthDate" class="control-label"></label>
+    <input asp-for="BirthDate" class="form-control" />
+
+    <label asp-for="Gender" class="control-label"></label>
+    <input asp-for="Gender" class="form-control" />
+
 
     <div class="form-group">
         <button type="submit" class="btn btn-primary">Registrar</button>

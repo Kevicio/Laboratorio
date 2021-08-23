@@ -81,3 +81,17 @@ C:\Users\Soporte\Documents\USMP\programacion I\Laboratorio\obj\Debug\net5.0\demo
 C:\Users\Soporte\Documents\USMP\programacion I\Laboratorio\obj\Debug\net5.0\demomvc.csproj.CopyComplete
 C:\Users\Soporte\Documents\USMP\programacion I\Laboratorio\obj\Debug\net5.0\Razor\Views\Calculadora\Index.cshtml.g.cs
 C:\Users\Soporte\Documents\USMP\programacion I\Laboratorio\obj\Debug\net5.0\Razor\Views\Producto\index.cshtml.g.cs
+C:\Users\Soporte\Documents\USMP\programacion I\Laboratorio\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Soporte\Documents\USMP\programacion I\Laboratorio\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Soporte\Documents\USMP\programacion I\Laboratorio\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Soporte\Documents\USMP\programacion I\Laboratorio\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Soporte\Documents\USMP\programacion I\Laboratorio\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Soporte\Documents\USMP\programacion I\Laboratorio\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Soporte\Documents\USMP\programacion I\Laboratorio\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Soporte\Documents\USMP\programacion I\Laboratorio\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Soporte\Documents\USMP\programacion I\Laboratorio\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Soporte\Documents\USMP\programacion I\Laboratorio\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Soporte\Documents\USMP\programacion I\Laboratorio\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Soporte\Documents\USMP\programacion I\Laboratorio\bin\Debug\net5.0\Npgsql.dll
+C:\Users\Soporte\Documents\USMP\programacion I\Laboratorio\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Soporte\Documents\USMP\programacion I\Laboratorio\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
