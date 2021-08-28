@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Soporte\\Documents\\USMP\\programacion I\\Laboratorio\\demomvc.csproj": {}
+    "c:\\Users\\Soporte\\Documents\\USMP\\programacion I\\Laboratorio\\demomvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Soporte\\Documents\\USMP\\programacion I\\Laboratorio\\demomvc.csproj": {
+    "c:\\Users\\Soporte\\Documents\\USMP\\programacion I\\Laboratorio\\demomvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Soporte\\Documents\\USMP\\programacion I\\Laboratorio\\demomvc.csproj",
+        "projectUniqueName": "c:\\Users\\Soporte\\Documents\\USMP\\programacion I\\Laboratorio\\demomvc.csproj",
         "projectName": "demomvc",
-        "projectPath": "C:\\Users\\Soporte\\Documents\\USMP\\programacion I\\Laboratorio\\demomvc.csproj",
+        "projectPath": "c:\\Users\\Soporte\\Documents\\USMP\\programacion I\\Laboratorio\\demomvc.csproj",
         "packagesPath": "C:\\Users\\Soporte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Soporte\\Documents\\USMP\\programacion I\\Laboratorio\\obj\\",
+        "outputPath": "c:\\Users\\Soporte\\Documents\\USMP\\programacion I\\Laboratorio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Soporte\\AppData\\Roaming\\NuGet\\NuGet.Config"

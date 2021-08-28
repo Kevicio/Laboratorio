@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iK1QEBWxl0A4ZyuXiLach2yQmYfllFnMOp89LxPkuMBffuatQn8HOBwmsKf3wPtoKCJBEzHGwEPRGCZnM3ac/g==",
+  "dgSpecHash": "HmguwKGqHyfMkyolz3pIvYkjCgq88bT031e0verAjLuwEMPDm4C1WuXILintasggp/uKnxQ+I0vM89j5bpnMbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Soporte\\Documents\\USMP\\programacion I\\Laboratorio\\demomvc.csproj",
+  "projectFilePath": "c:\\Users\\Soporte\\Documents\\USMP\\programacion I\\Laboratorio\\demomvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Soporte\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Soporte\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.9\\microsoft.aspnetcore.cryptography.internal.5.0.9.nupkg.sha512",
