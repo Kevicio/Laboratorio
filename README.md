@@ -8,3 +8,5 @@ dotnet add package Microsoft.EntityFrameworkCore.Tools --version 5.0.9
 dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 5.0.7
 
 Segunda línea.
+
+Agregando otra linea solo en la rama pruebagit
